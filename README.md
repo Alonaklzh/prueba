@@ -1,5 +1,6 @@
 ## GoIT Node.js Course Template Homework
-Realice un fork de este repositorio para realizar las tareas (2-6). El fork creará un repositorio en su http://github.com
+Realice un fork de este repositorio para realizar las tareas (2-6).
+El fork creará un repositorio en su http://github.com
 Agregue al mentor como colaborador.
 Para cada tarea, cree su propia rama.
 - hw02
